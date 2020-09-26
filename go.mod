@@ -1,4 +1,4 @@
-module github.com/p1ass/feeder
+module github.com/honai/feeder
 
 go 1.14
 
